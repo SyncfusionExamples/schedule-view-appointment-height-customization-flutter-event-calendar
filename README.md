@@ -1,2 +1,1 @@
-# schedule-view-appointment-height-customization-flutter-event-calendar
-How to customize the appointment height in schedule view of the Flutter event calendar (SfCalendar)
+**[View document in our Syncfusion Flutter knowledge base](https://www.syncfusion.com/kb/12226/how-to-customize-the-appointment-height-in-schedule-view-of-the-flutter-event-calendar)**
