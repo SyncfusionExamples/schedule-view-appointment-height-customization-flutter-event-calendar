@@ -1,6 +1,6 @@
-# How to customize the appointment height in schedule view of the Flutter Calendar?
+# How to customize the appointment height in the schedule view of the Flutter Calendar?
 
-A quick-start example to customize the appointment height in schedule view of the Flutter Calendar.
+A quick-start example to customize the appointment height in the schedule view of the Flutter Calendar.
 
 The [appointmentItemHeight](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/ScheduleViewSettings/appointmentItemHeight.html) property of the [ScheduleViewSettings](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/ScheduleViewSettings-class.html) in the Flutter Event Calendar can be used to customise the height of the appointment in schedule view. You can hide the week with no appointments by using the [hideEmptyScheduleWeek](https://pub.dev/documentation/syncfusion_flutter_calendar/latest/calendar/ScheduleViewSettings/hideEmptyScheduleWeek.html) property of the ScheduleViewSettings.
 
